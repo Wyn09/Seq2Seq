@@ -1,2 +1,2 @@
 # Seq2Seq
-Seq2Seq_v1.0
+Seq2Seq
